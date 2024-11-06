@@ -464,10 +464,3 @@
     
     }
 }
-
-
-@media (max-width: 300px) {
-    .salas-section {
-        display: none;
-    }
-}

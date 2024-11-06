@@ -259,3 +259,30 @@
         width: 110px;
     }
 }
+
+@media (max-width: 660px) {
+    .searchIcon{
+        width: 30px;
+        height: 30px;
+        font-size: 30px!important;
+    }
+    .item-card {
+        width: 400px;
+        height: 200px;
+    }
+    .bg-img img{
+        width: 120px;
+        height: 120px;
+        border-radius: 10px;
+    }
+    .add-text{
+        font-size: 20px;
+    }
+
+    .bg-body-i-w{
+        padding: 70px;
+    }
+    border-radius: 10px;
+
+}
+
