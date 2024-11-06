@@ -282,13 +282,7 @@
     .bg-body-i-w{
         padding: 70px;
     }
-    .material-symbols-outlined{
-        width: 40px;
-        height: 30px;
-        font-size: 30px!important;
-    }
-    .add-button{
-        width: 600px;
-}
+    border-radius: 10px;
 
 }
+
